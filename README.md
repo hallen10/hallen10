@@ -4,7 +4,7 @@
 Computer science
 
 ## Favorite programing languages
-* Java
+![Static Badge](https://img.shields.io/badge/Java-0)
 * C#
 
 ## Interest
